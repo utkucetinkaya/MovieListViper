@@ -1,0 +1,6 @@
+framework module Pods_MovieListViper {
+  umbrella header "Pods-MovieListViper-umbrella.h"
+
+  export *
+  module * { export * }
+}
